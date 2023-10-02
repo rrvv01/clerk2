@@ -41,7 +41,7 @@ export default function Home() {
       </div>
       <div className="mb-4 bg-gray-100 p-4 m-4 rounded-lg">
         <Link
-          href="https://github.com/rrvv01/web/tree/main/clerk2"
+          href="https://github.com/rrvv01/clerk2"
           className="text-xl text-blue-700 font-bold"
         >
           Github repository
@@ -50,7 +50,7 @@ export default function Home() {
       </div>
       <div className="mb-4 bg-gray-100 p-4 m-4 rounded-lg">
         <Link
-          href="clerk2-rho.vercel.app"
+          href="https://clerk2-rho.vercel.app/"
           className="text-xl text-blue-700 font-bold"
         >
           Web service at vercel.com
